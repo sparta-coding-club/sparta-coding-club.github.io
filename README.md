@@ -1,21 +1,17 @@
-# 스파르타코딩클럽 7기
-Sparta Coding Club 7th
+# 스파르타코딩클럽 8기
+Sparta Coding Club 8th
 
 # members
-* [이수연](https://github.com/moondust46) - 2만원
-* [김태인](https://github.com/kti0940) - 1만원
-* [유지영](https://github.com/jryoo0804) - 2만원
-* [최상순](https://github.com/soooon95) - 0만원
-* [이승민](https://github.com/wiily512824) - 2만원
+* [이창희](https://github.com/Changhee-Lee)
+* [조원종](https://github.com/Chowonjong)
+* [서윤주](https://github.com/seoseopd)
+* [이지연](https://github.com/selinaleejy)
+* [박성민](https://github.com/variopal11)
+* [백승열](https://github.com/sybaek1)
+* [이민정](https://github.com/mmiinng)
+* [김유용](https://github.com/yuyongkim)
 
-# 적립금 출납 기록
-* 3월5일 - 전원 완납. 2만원 * 6 = 12만원 
-* 3월20일 - 손승희 2만원 환급 = 10만원
-* 3월24일 - 2주차 숙제 차감, 최상순(0.5만원) = 9.5만원
-* 3월24일 - 간식 7200원 지출
-* 3월26일 - 간식 5900원 지출
-* 3월31일 - 3주차 숙제 차감, 최상순(0.5만원) = 9만원
-* 4월7일 - 4주차 숙제 차감, 김태인(0.5만원), 최상순(0.5만원) => 8만원
-* 4월14일 - 5주차 숙제 차감, 김태인(0.5만원), 최상순(0.5만원) => 7만원
-* 4월30일 - 8주차 적립금 환급 : 이승민(2만원 현금), 유지영, 이수연, 김태인, 최상순 각 2만원 카카오패이 송금.
-* 4월30일 - 8주차 적립금 잔액 : -13,100원
+# documents
+* 강의자료- http://bit.ly/scc-8
+
+* 
